@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-qwqwqw
-=======
 main_hello
->>>>>>> mylocal
